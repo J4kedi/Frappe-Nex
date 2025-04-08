@@ -5,6 +5,10 @@ app_description = "Case Study NexForce"
 app_email = "kauanpardini@gmail.com"
 app_license = "mit"
 
+calendar_js = {
+    "Appointment": "public/js/appointment_calendar.js"
+}
+
 # Apps
 # ------------------
 
